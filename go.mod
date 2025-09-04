@@ -1,3 +1,3 @@
-module github.com/pushpendra24-7/go-app
+module github.com/iam-veeramalla/go-web-app
 
 go 1.22.5
